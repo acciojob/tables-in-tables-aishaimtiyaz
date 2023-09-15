@@ -5,7 +5,7 @@ table,tr,td,th{
 	paddind="45px";
 	margin= "45px";
 }
-.table1,td,th,tr{
+.table1>td,th,tr{
 	paddind="25px";
 	margin= "15px";
 }
