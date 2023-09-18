@@ -1,7 +1,7 @@
 
 /* Your CSS Code here. */
-table,tr,td,th{
-	text-align:center;
+/* table,tr,td,th{
+	
 	paddind="45px";
 	margin= "45px";
 }
@@ -10,14 +10,17 @@ table,tr,td,th{
 	margin= "15px";
 }
 .table2,td,th,tr{
-	paddind="15px";
-	margin= "15px";
-}
-.table3,td,th,tr{
+/* 	paddind="15px"; */
+/* 	margin= "15px"; */
+
+/* .table3,td,th,tr{
 	paddind="15px";
 	margin= "15px";
 }
 .table4,td,th,tr{
 	paddind="15px";
-	margin= "15px";
+	margin= "15px"; */
+
+
+	
 }
